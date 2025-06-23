@@ -51,3 +51,8 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+Demo
+
+Watch the accident detection system in action:
+
+🔗 [Click to watch the demo video](https://drive.google.com/file/d/1Jc-iYa-MGYkh9K_sOtl_kZygT7R_zEFx/view?usp=sharing)
