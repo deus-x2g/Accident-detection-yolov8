@@ -1,0 +1,12 @@
+# requirements.txt
+# This file lists all the Python libraries needed to run the Accident Detection System.
+# Use this to install all dependencies by running: pip install -r requirements.txt
+
+opencv-python
+torch
+torchvision
+torchaudio
+ultralytics
+shapely
+python-dotenv
+requests
